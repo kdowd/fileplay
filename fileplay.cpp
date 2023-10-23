@@ -17,7 +17,7 @@ int main()
 	myQueue.push(108);
 	myQueue.push(9);
 	myQueue.push(43);
-	myQueue.push(999);
+	myQueue.push("cripes");
 
 	print_queue(myQueue);
 
