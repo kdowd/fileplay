@@ -19,6 +19,7 @@ int main()
 	myQueue.push(43);
 	myQueue.push(007);
 
+
 	print_queue(myQueue);
 
 	return 0;
